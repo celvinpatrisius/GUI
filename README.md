@@ -1,4 +1,5 @@
 # GUI
+# Link youtube : https://youtu.be/xQp9B3ffLFE
 
 # PATRISIUS JULIO CELVIN JERMAT (311910677)
 # KELAS TI.19.F1
